@@ -1,0 +1,2 @@
+{"/Users/web/repos/template-repo/src/test1.js": {"path":"/Users/web/repos/template-repo/src/test1.js","statementMap":{"0":{"start":{"line":2,"column":4},"end":{"line":2,"column":19}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":1,"column":15},"end":{"line":1,"column":16}},"loc":{"start":{"line":1,"column":26},"end":{"line":3,"column":1}},"line":1}},"branchMap":{},"s":{"0":1},"f":{"0":1},"b":{},"_coverageSchema":"1a1c01bbd47fc00a2c39e90264f33305004495a9","hash":"72e8e423e07cdda06336a1ec71450c39dc5c963b"}
+}
