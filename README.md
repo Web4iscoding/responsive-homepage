@@ -1,2 +1,1 @@
-npx prettier [file] --write
-npm install
+[LIVE](https://web4iscoding.github.io/responsive-homepage/)
